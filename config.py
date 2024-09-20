@@ -14,7 +14,7 @@ API_HASH = getenv("API_HASH", "750432c8e1b221f91fd2c93a92710093")
 
 EVAL = list(map(int, getenv("EVAL", "7453770651").split()))
 # ------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN", "")
+BOT_TOKEN = getenv("BOT_TOKEN", "6789724300:AAFpcaVo2ETNMrxMRgLiZsxfDbithdJPrbU")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","tanjiro1249")
 # --------------------------------------------------------
